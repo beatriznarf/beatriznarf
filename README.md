@@ -1,16 +1,13 @@
-### Hi there 👋
+### ***Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz*** ☔️
 
-<!--
-**beatriznarf/beatriznarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas no Imepac, Araguari. Atualmente, desempenho funções na área de suporte ao cliente, onde encontro satisfação no meu trabalho e no contínuo aprendizado sobre tecnologias, especialmente no âmbito da análise de dados. Tenho um forte interesse nessa área e estou direcionando meus estudos exclusivamente para ela neste momento da minha vida.**
+
+**Além disso, estou trabalhando e me desenvolvendo na criação de dashboards no Power BI, uma ferramenta que despertou minha paixão desde o momento em que comecei a aprender e acompanhar o desenvolvimento dos meus relatórios.**
+
+![Narciso's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriznarf&show_icons=true&theme=tokyonight)
+___________________________________________________________________
+## Tecnologias que estou aprendendo e/ou utilizando no meu dia a dia:
+
+  <img align="center" alt= "MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=radical"/> <img align="center" alt= "C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
