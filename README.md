@@ -21,8 +21,3 @@ Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no se
 
 
 </div>
-
-
-###
-<img src="https://raw.githubusercontent.com/beatriznarf/beatriznarf/output/snake.svg" alt="Snake animation"/>
-
