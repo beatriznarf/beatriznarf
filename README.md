@@ -1,9 +1,8 @@
 ### ***Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz*** ☯
  
 
-Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas no Imepac, Araguari. 
-
-Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo. 
+⁍ Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas no Imepac, Araguari. 
+⁍ Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo. 
 
                                                                                                                              
 <div align="left">
