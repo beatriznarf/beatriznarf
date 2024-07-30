@@ -2,6 +2,7 @@
  
 
 ⁍ Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas no Imepac, Araguari. 
+
 ⁍ Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo. 
 
                                                                                                                              
