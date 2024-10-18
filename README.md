@@ -4,7 +4,9 @@
 ⁍ Tenho 22 anos e estou cursando o 4º período em Análise e Desenvolvimento de Sistemas no Imepac, Araguari. 
 
 ⁍ Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo. 
+
 📜 Especializando em desenvolvimento de bats | 2.024
+
 📜 Especializando em Windows Server | 2.024
 
                                                                                                                              
