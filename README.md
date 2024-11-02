@@ -1,11 +1,11 @@
-<img align="right" height="350" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
+<img align="right" height="400" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
 
 ###
 
 <p align="center">
-  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-rigth: 15px;" />
-  <img src="src/imagens/beatriznarf.png" width="300" />
-  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-left: 15px;" />
+  <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-rigth: 15px;" />
+  <img src="src/imagens/beatriznarf.png" width="200" />
+  <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-left: 15px;" />
 </p>
 
 
