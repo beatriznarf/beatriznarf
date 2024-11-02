@@ -1,11 +1,7 @@
 <img align="right" height="400" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
 
-
-
 ###
-<p align="center"> <img src="src/imagens/beatriznarf.png" width="400"/></p>
-
-<h4 align="center">
+<p align="center"> <img src="src/imagens/beatriznarf.png" width="300"/></p>
 
 ###
 
