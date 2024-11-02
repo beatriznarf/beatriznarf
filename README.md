@@ -1,4 +1,4 @@
-<img align="right" height="450" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right; margin-left: 20px;" />
+<img align="right" height="470" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right; margin-left: 20px;" />
 
 <p align="center">
   <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-right: 15px;" />
