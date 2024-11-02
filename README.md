@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
   <img width="20" />
