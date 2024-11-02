@@ -3,12 +3,13 @@
 ###
 
 <p align="center">
+  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-rigth: 15px;" />
   <img src="src/imagens/beatriznarf.png" width="300" />
-  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-left: 15px;" />
 </p>
 
 
-<h6 align="left">🪔 Tenho 22 anos. <br><br>🪔 Estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br><br>🪔  Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo.</h6>
+<h6 align="center">🪔 Tenho 22 anos. <br><br>🪔 Estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br><br>🪔  Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo.</h6>
 
 ###
 
