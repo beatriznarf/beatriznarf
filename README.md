@@ -1,9 +1,12 @@
-<img align="right" height="400" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
+<img align="right" height="300" src="src/imagens/mago.gif"/>
 
 ###
-<p align="center"> <img src="src/imagens/beatriznarf.png" width="300"/></p>
 
-###
+<p align="center">
+  <img src="src/imagens/beatriznarf.png" width="300" />
+  <img src="src/imagens/winterbox.png" width="50" style="vertical-align: middle; margin-left: 10px;" />
+</p>
+
 
 <h6 align="left">🪔 Tenho 22 anos. <br><br>🪔 Estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br><br>🪔  Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo.</h6>
 
