@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
 </div>
 <br> </br>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="130" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=beatriznarf&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="130" alt="stats graph" />
 </div>
