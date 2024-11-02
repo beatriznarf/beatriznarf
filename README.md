@@ -1,4 +1,4 @@
-<img align="right" height="300" src="src/imagens/mago.gif"/>
+<img align="right" height="350" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
 
 ###
 
