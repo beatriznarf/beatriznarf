@@ -1,27 +1,40 @@
-### ***Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz*** ☯
- 
+<br clear="both">
 
-⁍ Tenho 22 anos e estou cursando o 4º período em Análise e Desenvolvimento de Sistemas no Imepac, Araguari. 
+<img align="right" height="400" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
 
-⁍ Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo. 
+###
 
-📜 Especializando em desenvolvimento de bats | 2.024
+<h4 align="center">🌱  Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz 🌱</h4>
 
-📜 Especializando em Windows Server | 2.024
+###
 
-                                                                                                                             
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=10&theme=midnight-purple&hide_border=false&order=3" height="120" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=beatriznarf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="120" alt="stats graph"/>
- </div>                                                                   
+<h6 align="left">🪔 Tenho 22 anos. <br><br>🪔 Estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br><br>🪔  Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo.</h6>
 
+###
 
-
-<hr>
-
-## Tecnologias que estou aprendendo e/ou utilizando no meu dia a dia:
-<div style="display=inline_block">
-  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="center" alt= "C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img align="center" alt= "Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  <img align ="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-
+<div align="center">
+  <img height="70" src="https://steamuserimages-a.akamaihd.net/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beatriznarf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+</div>
+
+###
