@@ -1,13 +1,12 @@
-<br clear="both">
 
-<img align="right" height="500" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
+
+<img align="right" height="400" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif"  />
 
 ###
 
-<h1 align="center">🌱  Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz 🌱</h1>
+<h3 align="center">🌱  Seja bem-vindo(a) ao meu perfil do Github, me chamo Beatriz 🌱</h3>
 
-### 
-
+###
 
 <h6 align="left">🪔 Tenho 22 anos. <br><br>🪔 Estou cursando o 4º período em Análise e Desenvolvimento de Sistemas.<br><br>🪔  Atualmente, desempenho funções na área de suporte ao cliente, sobretudo no setor administrativo.</h6>
 
@@ -31,7 +30,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="125" alt="languages graph"  />
