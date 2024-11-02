@@ -1,4 +1,4 @@
-<img align="right" height="470" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right; margin-left: 20px;" />
+<img align="right" height="485" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right; margin-left: 20px;" />
 
 <p align="center">
   <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-right: 15px;" />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
 </div>
 <br> </br>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="125" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=beatriznarf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="125" alt="stats graph" />
 </div>
