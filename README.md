@@ -1,4 +1,3 @@
-<img align="right" height="500" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right;" />
 
 <div align="center">
   <img height= "70" src="https://static.wixstatic.com/media/265122_a8918477723c469abd0132476fb268ee~mv2.gif"/>
