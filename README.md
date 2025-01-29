@@ -1,5 +1,8 @@
 <img align="right" height="485" src="https://i.pinimg.com/originals/82/b7/09/82b70990b90e5b33179c24620e926170.gif" style="float: right;" />
 
+<div align="center">
+  <img height= "70" src="https://static.wixstatic.com/media/265122_a8918477723c469abd0132476fb268ee~mv2.gif"/>
+</div>
 <p align="center">
   <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-right: 15px;" />
   <img src="src/imagens/beatriznarf.png" width="200" />
@@ -20,6 +23,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
   <img width="20" />
 </div>
+
+
+
 <br> </br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatriznarf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="130" alt="languages graph" />
