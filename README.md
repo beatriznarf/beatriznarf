@@ -1,14 +1,5 @@
 
 <div align="center">
-  <img height= "70" src="https://static.wixstatic.com/media/265122_a8918477723c469abd0132476fb268ee~mv2.gif"/>
-</div>
-<p align="center">
-  <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-right: 15px;" />
-  <img src="src/imagens/beatriznarf.png" width="200" />
-  <img src="src/imagens/winterbox.png" width="20" style="vertical-align: middle; margin-left: 15px;" />
-</p>
-
-<div align="center">
   <img height="70" src="https://steamuserimages-a.akamaihd.net/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
