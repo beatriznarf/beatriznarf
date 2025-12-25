@@ -1,16 +1,31 @@
+## ✨ Sobre mim
 
-<div align="center">
-  <img height="70" src="https://steamuserimages-a.akamaihd.net/ugc/919162814702621082/4DDBE5B38A3ABE0C8BC2C4774C2710C329B1C689/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
-<div align="center"> Este perfil encontra-se em reforma!</div>
-<p></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-  <img width="20" />
-</div>
+**Bibia**, 24 anos.
 
+Estudante de línguas com foco em **tradução** e **typesetting**, usando meus próprios interesses como ferramenta de aprendizado. 
 
+Meu GitHub será utilizado para armazenar materiais de estudo, exercícios de tradução, testes de limpeza e typesetting, anotações linguísticas e, futuramente, meus projetos pessoais.
+
+---
+
+## 📚 Interesses & Estudos:
+
+🌏 Idiomas: **Coreano** e **Inglês**;
+
+📝 Tradução (PT ↔ EN / PT ↔ KR);
+
+📖 Leitura de **manhwas**, **BLs** e **novels**;
+
+🧹 Cleaner (remoção e tratamento de textos em imagens);
+
+🎨 Typesetting (diagramação e adaptação de textos traduzidos);
+
+---
+
+## 🎮 Hobbies & Interesses Pessoais
+
+🎮 Jogar **Genshin Impact**.
+
+🧠 Interesse por **matemática** e **biologia**.
+
+📚 Ler **manhwas**, **mangás** e **novels**, além de assistir **animes** .
