@@ -10,11 +10,9 @@ Meu GitHub será utilizado para armazenar materiais de estudo, exercícios de tr
 
 ## 📚 Interesses & Estudos:
 
-🌏 Idiomas: **Coreano** e **Inglês**;
+🌏 Idiomas;
 
 📝 Tradução (PT ↔ EN / PT ↔ KR);
-
-📖 Leitura de **manhwas**, **BLs** e **novels**;
 
 🧹 Cleaner (remoção e tratamento de textos em imagens);
 
